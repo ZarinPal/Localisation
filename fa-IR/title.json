@@ -1,0 +1,23 @@
+{
+  "id": "شناسه",
+  "status": "وضعیت",
+  "system": "سیستم متصل",
+  "date": "تاریخ",
+  "description": "توضیحات",
+  "amount": "مبلغ (به ریال)",
+  "session_id": "شناسه‌ی پرداخت",
+  "reference_id": "شناسه‌ی ارجاع",
+  "bank_reference_id": "شناسه‌ی ارجاع بانکی",
+  "reconcile_id": "شناسه‌ی تسویه‌حساب ",
+  "payable_at": "تاریخ قابل واریز",
+  "reconciled_at": "تاریخ واریز شده",
+  "created_at": "تاریخ ایجاد",
+  "updated_at": "آخرین به‌روز‌رسانی",
+  "deleted_at": "تاریخ حذف",
+  "expired_at": "تاریخ انقضا",
+  "expired_in": "منقصی شده در",
+  "title": "عنوان",
+  "name": "نام",
+  "operation": "عملیات",
+  "size": "حجم"
+}
