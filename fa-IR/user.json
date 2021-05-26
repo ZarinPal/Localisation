@@ -13,7 +13,7 @@
     "BASIC": "تایید اولیه",
     "GOLD": "طلایی",
     "NEW": "عضو جدید",
-    "SILVER": " نقره‌ای"
+    "SILVER": "نقره‌ای"
   },
   "notification_preference_channel": {
     "MAIL": "ایمیل",
@@ -34,8 +34,8 @@
     "birthday": "تاریخ تولد صاحب امضاء",
     "birthday_signature": "تاریخ تولد",
     "cell_number": "شماره تلفن همراه",
-    "company_name": " نام حقوقی",
-    "company_registered_at": "تاریخ ثبت ",
+    "company_name": "نام حقوقی",
+    "company_registered_at": "تاریخ ثبت",
     "company_rid": "شناسه ملی حقوقی",
     "email": "ایمیل",
     "first_name": "نام",
