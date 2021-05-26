@@ -1,0 +1,53 @@
+{
+  "access_tokens": {
+    "type": {
+      "PERSONAL": "نشست‌های شخصی",
+      "THIRDPARTY": "نشست‌های همکار"
+    }
+  },
+  "gender": {
+    "FEMALE": "خانم",
+    "MALE": "آقا"
+  },
+  "level": {
+    "BASIC": "تایید اولیه",
+    "GOLD": "طلایی",
+    "NEW": "عضو جدید",
+    "SILVER": " نقره‌ای"
+  },
+  "notification_preference_channel": {
+    "MAIL": "ایمیل",
+    "PUSH": "نوتیفیکیشن",
+    "SMS": "پیامک",
+    "TELEGRAM": "تلگرام",
+    "WEBHOOK": "وب هوک"
+  },
+  "notification_preference_type": {
+    "NEW_SESSION": "تراکنش جدید",
+    "RECONCILE": "تراکنش خروجی",
+    "SESSION_SUCCESS": "تراکنش موفق",
+    "TICKET_NEW": "تیکتِ جدید",
+    "TICKET_REPLY": "پاسخ جدید تیکت"
+  },
+  "profile": {
+    "avatar": "آواتار",
+    "birthday": "تاریخ تولد صاحب امضاء",
+    "birthday_signature": "تاریخ تولد",
+    "cell_number": "شماره تلفن همراه",
+    "company_name": " نام حقوقی",
+    "company_registered_at": "تاریخ ثبت ",
+    "company_rid": "شناسه ملی حقوقی",
+    "email": "ایمیل",
+    "first_name": "نام",
+    "first_name_signature": "نام صاحب امضاء",
+    "full_name": "نام و خانوادگی",
+    "gender": "جنسیت",
+    "last_name": "نام خانوادگی",
+    "last_name_signature": "نام خانوادگی صاحب امضاء",
+    "level": "سطح تایید",
+    "ssn": "کد ملی",
+    "ssn_signature": "کد ملی صاحب امضاء",
+    "tax_id": "کد مالیاتی",
+    "username": "نام کاربری"
+  }
+}
