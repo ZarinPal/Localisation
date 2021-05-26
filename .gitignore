@@ -1,2 +1,6 @@
 
 .DS_Store
+.idea/csv-plugin.xml
+.idea/Localisation.iml
+.idea/modules.xml
+.idea/vcs.xml
