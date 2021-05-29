@@ -1,0 +1,26 @@
+{
+  "chart": {
+    "amount": "ملبغ",
+    "count": "تعداد",
+    "current_day": "روز جاری",
+    "current_month": "ماهِ جاری",
+    "current_week": "هفته‌ی جاری",
+    "in_process_reconcile": "در حال تسویه",
+    "monthly_calendar": "روزشمار ماهانه",
+    "previous_month": "ماهِ گذشته",
+    "reconcile_all": "همه‌ی تسویه‌حساب‌ها",
+    "reconciled_amount": "مبلغ تسویه‌ شده (به ریال)",
+    "reconciliation": "تسویه‌حساب‌ها",
+    "reconciliation_in_progress_count": "تسویه‌حساب در حال انجام است.",
+    "statistics": "آمار کلی",
+    "success_sessions": "تراکنش‌های موفق",
+    "sum": "مجموع کل درآمد",
+    "today": "امروز",
+    "week": "هفته‌",
+    "yesterday": "دیروز"
+  },
+  "description": "دریک نگاه کل آمار های خود در زرین‌پال ببینید",
+  "new_terminal_action": "درخواست درگاه پرداخت",
+  "new_terminal_description": "با کلیک بروی دکمه زیر به راحتی می‌توانید درگاه جدید ایجاد کنید",
+  "title": "نمای کلی"
+}
