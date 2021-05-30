@@ -12,7 +12,7 @@
   "operation": "عملیات",
   "payable_at": "تاریخ قابل واریز",
   "reconcile_id": "شناسه‌ی تسویه‌حساب",
-  "reconciled_at": "تاریخ واریز‌شده",
+  "reconciled_at": "تاریخ تسویه",
   "reference_id": "شناسه‌ی ارجاع",
   "session_id": "شناسه‌ی پرداخت",
   "size": "حجم",
