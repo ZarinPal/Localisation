@@ -1,5 +1,5 @@
 {
-  "version" : 0.1,
+  "version" : 0.2,
   "end_point" : "raw.githubusercontent.com/ZarinPal/Localisation/main",
   "entities":[
     "auth.json",
@@ -12,6 +12,7 @@
     "session.json",
     "status.json",
     "ticket.json",
+    "terminal.json",
     "title.json",
     "user.json"
   ]
