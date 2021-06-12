@@ -1,19 +1,21 @@
 {
-  "version" : 0.2,
-  "end_point" : "raw.githubusercontent.com/ZarinPal/Localisation/main",
-  "entities":[
+  "end_point": "raw.githubusercontent.com/ZarinPal/Localisation/main",
+  "entities": [
     "auth.json",
     "bank_account.json",
     "common.json",
     "coupon.json",
     "dashboard.json",
+    "kyc.json",
     "payout.json",
     "product.json",
+    "referrer.json",
     "session.json",
     "status.json",
-    "ticket.json",
     "terminal.json",
+    "ticket.json",
     "title.json",
     "user.json"
-  ]
+  ],
+  "version": 0.2
 }
