@@ -10,6 +10,7 @@
     "previous_month": "ماهِ گذشته",
     "reconcile_all": "همه‌ی تسویه‌حساب‌ها",
     "reconciled_amount": "مبلغ تسویه‌ شده (به ریال)",
+    "payout_amount":"مبلغ خالص تسویه",
     "reconciliation": "تسویه‌حساب‌ها",
     "reconciliation_in_progress_count": "تسویه‌حساب در حال انجام است.",
     "statistics": "آمار کلی",
