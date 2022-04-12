@@ -1,7 +1,43 @@
 {
-  "description": "در این بخش می‌توانید لیست تمام محصولات خود را مشاهده کنید.",
+  "description": "لیست محصولات شما",
+  "activate": "فعال کردن",
+  "deActivate": "غیر‌فعال کردن",
+  "details": {
+    "details": "جزئیات محصول",
+    "title": "عنوان محصول یا خدمات",
+    "price": "مبلغ",
+    "description": "توضیحات",
+    "fields": {
+      "NAME": "نام و نام خانوادگی پرداخت کننده",
+      "EMAIL": "آدرس ایمیل",
+      "MOBILE": "شماره موبایل",
+      "DESCRIPTION": "توضیحات",
+      "CUSTOM_FIELD_1": "فیلد اختیاری یک",
+      "CUSTOM_FIELD_2": "فیلد اختیاری دو",
+      "OPTIONAL": "اختیاری",
+      "HIDDEN": "غیر فعال",
+      "MANDATORY": "اجباری",
+      "NOTITLE": "[این فیلد هیچ عنوانی ندارد]"
+    },
+    "canDiscount": "امکان اعمال کد تخفیف",
+    "canDiscountTrue": "دارد",
+    "canDiscountFalse": "ندارد",
+    "unlimited": "نامحدود",
+    "stock": "موجودی",
+    "latelyTransactions": "تراکنش‌های اخیر",
+    "showAll": "مشاهده همه",
+    "rials": "ریال",
+    "payId": "شناسه پرداخت",
+    "dateTime": "تاریخ و ساعت",
+    "share": "اشتراک گذاری",
+    "saleReports": "آمار فروش",
+    "day": "روز",
+    "month": "ماه",
+    "successfulTransactions": "تراکنش‌های موفق",
+    "saleSum": "مجموع فروش (ریال)"
+  },
   "add": {
-    "new": "ساخت محصول جدید",
+    "new": "محصول جدید",
     "crate": "ساخت محصول",
     "description_payer": "توضیحات پرداخت‌کننده",
     "finish": "تمام",
@@ -65,5 +101,9 @@
     "show_receipt": "نمایش رسید پرداخت",
     "link": "لینک پرداخت سریع",
     "your_personal_link": "زرین‌لینک شما"
+  },
+  "deactivate": {
+    "confirm_title": "غیر فعال کردن محصول",
+    "confirm": "آیا می‌خواهید این محصول غیر فعال شود؟"
   }
 }
