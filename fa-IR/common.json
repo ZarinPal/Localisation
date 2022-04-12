@@ -1,4 +1,19 @@
 {
+  "table": {
+    "reconcile_id": "شناسه تسویه",
+    "payable_at": "تاریخ تخمینی واریز",
+    "payout_amount": "مبلغ خالص تسویه",
+    "amount": "مبلغ",
+    "pay_id": "شناسه پرداخت",
+    "created_at": "تاریخ و ساعت",
+    "rials": "ریال",
+    "status": "وضعیت",
+    "limit": "موجودی",
+    "product": "محصول",
+    "session_id": "شناسه‌ی پرداخت",
+    "description": "توضیحات",
+    "date": "تاریخ"
+  },
   "bank_accounts": "حساب‌های بانکی",
   "cancel": "انصراف",
   "copied": "کپی شد.",
