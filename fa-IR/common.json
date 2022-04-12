@@ -14,8 +14,8 @@
     "description": "توضیحات",
     "date": "تاریخ"
   },
-  "decativate": "غیرفعال کردن",
-  "decativate_button": "بله، غیرفعال شود",
+  "deactivate": "غیرفعال کردن",
+  "deactivate_button": "بله، غیرفعال شود",
   "bank_accounts": "حساب‌های بانکی",
   "cancel": "انصراف",
   "copied": "کپی شد.",
