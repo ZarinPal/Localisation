@@ -48,7 +48,9 @@
       "USSDGATE": "درگاه موبایل",
       "ZARINAK": "زرینَک",
       "ZARINGATE": "درگاه مستقیم",
-      "ZARINLINK": "محصول"
+      "ZARINLINK": "محصول",
+      "WEBGATE": "درگاه پرداخت",
+      "BILL": "پرداخت قبض"
     }
   },
   "transaction_of": "تراکنش‌های درگاه پرداخت"
