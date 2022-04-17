@@ -23,5 +23,7 @@
   "SUPPORT_RESPONSE": "پاسخِ پشتیبان",
   "SUSPEND": "معلق",
   "VERIFIED": "پرداخت موفق",
-  "ZARIN_CARD_PENDING": "در انتظار زرین‌کارت"
+  "ZARIN_CARD_PENDING": "در انتظار زرین‌کارت",
+  "FINALIZED":"موفق نهایی شده",
+  "NOT_FINALIZED":"موفق نهایی نشده"
 }
