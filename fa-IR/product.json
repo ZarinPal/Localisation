@@ -94,7 +94,7 @@
     "barcode_save": "ذخیره بارکد",
     "bb_code": "[url=\"{link}\"]پرداخت آنلاین[/url]",
     "bb_code_label": "BBCode ویژه‌ی انجمن‌ها",
-    "html_code": "<a target=\"_blank\"href=\"{link}\">پرداخت آنلاین</a>",
+    "html_code": "<a target=\"_blank\" href=\"{link}\">پرداخت آنلاین</a>",
     "html_code_label": "کد HTML",
     "link_product": "لینک محصول",
     "show_link": "نمایش لینک",
