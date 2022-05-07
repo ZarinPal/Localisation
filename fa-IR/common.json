@@ -34,6 +34,7 @@
   "error_long": "وارد‌شده طولانی است.(کمتر  از {chars} کاراکتر){data}",
   "error_short": "وارد‌شده کوتاه است.(بیشتر از {chars} کاراکتر){data}",
   "zarinPalAnnouncement": "اطلاعیه‌ها",
+  "archive_announcement": "آرشیو اطلاعیه‌ها",
   "notifications": "اعلانات",
   "export": {
     "7_days": "۷روز گذشته",
