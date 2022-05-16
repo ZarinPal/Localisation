@@ -98,5 +98,7 @@
   "zarinpal": "زرین‌پال",
   "sum": "مجموع",
   "price": "قیمت",
-  "show": "مشاهده"
+  "show": "مشاهده",
+  "sessionPaid": "تراکنش های تسویه شده",
+  "reconciliationDetail": "جزئیات تسویهحساب"
 }
