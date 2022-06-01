@@ -40,6 +40,8 @@
     "MEDIUM": "مهم"
   },
   "report": "گزارش پاسخ",
+  "downloadAttachment": "دانلود فایل پیوست",
+  "wasHelpful": "این پاسخ برای شما مفید بود؟",
   "replyReportTypes": {
     "INSUFFICIENT": "پاسخ ناقص",
     "IRRELEVANT": "پاسخ نامرتبط",
