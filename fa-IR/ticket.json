@@ -33,6 +33,10 @@
     "terminal": "درگاه‌ پرداخت"
   },
   "feedback": "بازخورد",
+  "ticketFeedback":{
+    "weak": "ضعیف",
+    "great": "عالی"
+  },
   "insufficient": "گزارش پاسخ نامرتبط",
   "priority": {
     "HIGH": "بسیار مهم",
