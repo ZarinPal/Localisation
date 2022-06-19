@@ -105,5 +105,9 @@
   "sessionPaid": "تراکنش های تسویه شده",
   "reconciliationDetail": "جزئیات تسویه حساب",
   "WHATSAPP": "واتس‌اپ",
-  "TELEGRAM": "تلگرام"
+  "TELEGRAM": "تلگرام",
+  "exit_page": "آیا می‌خواهید از این صفحه خارج شوید؟",
+  "continue_action": "ادامه عملیات",
+  "cancel_action": "انصراف از عملیات",
+  "unsaved_changes": "تغییرات ذخیره نشده"
 }
