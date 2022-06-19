@@ -119,7 +119,13 @@
     "your_personal_link": "زرین‌لینک شما"
   },
   "deactivate": {
-    "confirm_title": "غیر فعال کردن محصول",
-    "confirm": "آیا می‌خواهید این محصول غیر فعال شود؟"
+    "confirm_title": "غیرفعال کردن محصول",
+    "confirm": "آیا می‌خواهید این محصول غیرفعال شود؟",
+    "inline-title":"محصول غیرفعال است",
+    "inline-description":"این محصول در تاریخ {date} غیرفعال شده است."
+  },
+  "activate_modal": {
+    "confirm_title": "فعال کردن محصول",
+    "confirm": "آیا می‌خواهید این محصول فعال شود؟"
   }
 }
