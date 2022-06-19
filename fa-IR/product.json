@@ -121,8 +121,8 @@
   "deactivate": {
     "confirm_title": "غیرفعال کردن محصول",
     "confirm": "آیا می‌خواهید این محصول غیرفعال شود؟",
-    "inline-title":"محصول غیرفعال است",
-    "inline-description":"این محصول در تاریخ {date} غیرفعال شده است."
+    "inline_title":"محصول غیرفعال است",
+    "inline_description":"این محصول در تاریخ {date} غیرفعال شده است."
   },
   "activate_modal": {
     "confirm_title": "فعال کردن محصول",
