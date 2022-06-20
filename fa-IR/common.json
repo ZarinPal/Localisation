@@ -20,17 +20,17 @@
   "sidebar":{
     "home": "پیشخوان",
     "invoice": "پرداخت شناسه‌دار",
-    "view": "نمای کلی ",
+    "dashboard": "نمای کلی ",
     "coupon": "کدِ تخفیف",
-    "BankAccount": "حساب بانکی",
+    "bankAccount": "حساب بانکی",
     "session": "تراکنش‌ها",
-    "card": "حساب‌های بانکی",
-    "easyPays": "محصولات",
+    "bankAccounts": "حساب‌های بانکی",
+    "product": "محصولات",
     "payout": "تسهیم فردایی",
-    "headingInstantPayout": "تسویه‌پیش از موعد ",
+    "instantPayout": "تسویه‌پیش از موعد ",
     "ticket": "تیکت‌ها",
     "terminal": "درگاه پرداخت ",
-    "Reconciliation": "تسویه‌حساب"
+    "reconciliation": "تسویه‌حساب"
   },
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",
