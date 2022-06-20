@@ -17,6 +17,21 @@
     "description": "توضیحات",
     "date": "تاریخ"
   },
+  "sidebar":{
+    "home": "پیشخوان",
+    "invoice": "پرداخت شناسه‌دار",
+    "view": "نمای کلی ",
+    "coupon": "کدِ تخفیف",
+    "BankAccount": "حساب بانکی",
+    "session": "تراکنش‌ها",
+    "card": "حساب‌های بانکی",
+    "easyPays": "محصولات",
+    "payout": "تسهیم فردایی",
+    "headingInstantPayout": "تسویه‌پیش از موعد ",
+    "ticket": "تیکت‌ها",
+    "terminal": "درگاه پرداخت ",
+    "Reconciliation": "تسویه‌حساب"
+  },
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",
   "activate_button":"بله، فعال شود",
