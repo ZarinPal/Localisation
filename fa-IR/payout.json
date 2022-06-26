@@ -12,6 +12,8 @@
     "REACHED_AMOUNT": "تسویه شده",
     "TRASH": "غیرفعال"
   },
+  "payoutBalance": "موجودی قابل تسویه",
+  "latest": "آخرین تسویه‌حساب‌ها",
   "multi": "چند مرحله‌ای",
   "save": "ثبت تسویه",
   "select_bank_account": "انتخابِ حساب",

@@ -10,7 +10,7 @@
     "previous_month": "ماهِ گذشته",
     "reconcile_all": "همه‌ی تسویه‌حساب‌ها",
     "reconciled_amount": "مبلغ تسویه‌ شده (به ریال)",
-    "payout_amount":"مبلغ خالص تسویه",
+    "payout_amount": "مبلغ خالص تسویه",
     "reconciliation": "تسویه‌حساب‌ها",
     "reconciliation_in_progress_count": "تسویه‌حساب در حال انجام است.",
     "statistics": "آمار کلی",
@@ -18,7 +18,9 @@
     "sum": "مجموع کل درآمد",
     "today": "امروز",
     "week": "هفته‌",
-    "yesterday": "دیروز"
+    "yesterday": "دیروز",
+    "compare_with": "مقایسه با",
+    "session": "تراکنش"
   },
   "description": "دریک نگاه کل آمار های خود در زرین‌پال ببینید",
   "new_terminal_action": "درخواست درگاه پرداخت",
