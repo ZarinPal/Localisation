@@ -27,5 +27,23 @@
   "subTitle": "تسویه‌ به شرکای تجاری",
   "sum_active": "مجموع تسهیم‌های فعال",
   "title": "تسهیم درآمد",
-  "type": "مدلِ تسویه‌حساب"
+  "type": "مدلِ تسویه‌حساب",
+  "CheckoutRequest": "درخواست تسویه‌حساب",
+  "rrn": "شماره پیگیری",
+  "instant": {
+    "status": {
+      "PENDING": "در حال پردازش",
+      "REJECTED": "رد شده",
+      "IN_PROGRESS": "ارسال شده به شاپرک",
+      "REVERSED": "بازگردانی شده",
+      "PAID": "تسویه‌ شده"
+    },
+    "instant_service": "سرویس آنی",
+    "max_one_hour": "حداکثر تا ۱ ساعت",
+    "paya_service": "سرویس پایا",
+    "first_paya_cycle": "اولین سیکل پایا",
+    "satna_service": "سرویس ساتنا",
+    "first_satna_cycle": "اولین سیکل ساتنا",
+    "deposite_time":"زمان تقریبی واریز"
+  }
 }

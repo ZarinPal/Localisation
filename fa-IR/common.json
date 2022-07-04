@@ -17,7 +17,7 @@
     "description": "توضیحات",
     "date": "تاریخ"
   },
-  "sidebar":{
+  "sidebar": {
     "home": "پیشخوان",
     "invoice": "پرداخت شناسه‌دار",
     "dashboard": "نمای کلی ",
@@ -34,7 +34,7 @@
   },
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",
-  "activate_button":"بله، فعال شود",
+  "activate_button": "بله، فعال شود",
   "bank_accounts": "حساب‌های بانکی",
   "cancel": "انصراف",
   "copied": "کپی شد.",
@@ -125,5 +125,6 @@
   "exit_page": "آیا می‌خواهید از این صفحه خارج شوید؟",
   "continue_action": "ادامه عملیات",
   "cancel_action": "انصراف از عملیات",
-  "unsaved_changes": "تغییرات ذخیره نشده"
+  "unsaved_changes": "تغییرات ذخیره نشده",
+  "fee": "کارمزد"
 }
