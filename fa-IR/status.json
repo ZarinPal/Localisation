@@ -6,7 +6,7 @@
   "DE_ACTIVE": "غیرفعال",
   "EXPIRED": "منقضی شده",
   "FAILED": "تکمیل‌نشده",
-  "IN_PROGRESS": "در حالِ بررسی",
+  "IN_PROGRESS": "در حال بررسی",
   "INACTIVE": "غیرفعال",
   "INBANK": "در حال پرداخت",
   "NEW": "جدید",
@@ -20,8 +20,10 @@
   "REVERSED": "بازگردانی شده",
   "SUCCESS": "موفق",
   "UNSUCCESS":"ناموفق",
-  "SUPPORT_RESPONSE": "پاسخِ پشتیبان",
+  "SUPPORT_RESPONSE": "پاسخ پشتیبان",
   "SUSPEND": "معلق",
   "VERIFIED": "پرداخت موفق",
-  "ZARIN_CARD_PENDING": "در انتظار زرین‌کارت"
+  "ZARIN_CARD_PENDING": "در انتظار زرین‌کارت",
+  "FINALIZED":"موفق نهایی شده",
+  "NOT_FINALIZED":"موفق نهایی نشده"
 }

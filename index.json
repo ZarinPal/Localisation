@@ -6,9 +6,14 @@
     "common.json",
     "coupon.json",
     "dashboard.json",
+    "date.json",
+    "empty.json",
+    "invoice.json",
     "kyc.json",
+    "pagination.json",
     "payout.json",
     "product.json",
+    "reconcilation.json",
     "referrer.json",
     "session.json",
     "status.json",
@@ -16,7 +21,7 @@
     "ticket.json",
     "title.json",
     "user.json",
-    "reconcilation.json"
+    "warnings.json"
   ],
   "version": 0.2
 }
