@@ -6,5 +6,21 @@
     "IN_PROGRESS": "ارسال شده به شاپرک",
     "REVERSED": "بازگردانی شده",
     "PAID": "تسویه‌ شده"
+  },
+  "reconcileDetail": {
+    "error": "تسویه‌حسابی با این شناسه وجود ندارد. ",
+    "errorSession": "تراکنشی با این شناسه وجود ندارد. ",
+    "totalFee": "مجموع کارمزد تسویه ",
+    "reconcileBy": " تسویه توسط :",
+    "totalSession": "مجموع تراکنش‌ها ",
+    "account": "حساب ",
+    "printArrived": "پرینتِ رسید",
+    "reconcileDefaultAccount": "حساب پیش‌فرض تسویه ",
+    "selectBankAccount": "لطفا یک حساب بانکی انتخاب کنید.",
+    "dateSaveTxt": "تاریخ تسویه",
+    "dateCreated": "تاریخ ثبت ",
+    "paid": "تسویه شده",
+    "amount": "سهم واریز شده",
+    "rrn": "شناسه واریز"
   }
 }
