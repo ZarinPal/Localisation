@@ -128,5 +128,6 @@
   "continue_action": "ادامه عملیات",
   "cancel_action": "انصراف از عملیات",
   "unsaved_changes": "تغییرات ذخیره نشده",
-  "fee": "کارمزد"
+  "fee": "کارمزد",
+ "accept": "تایید"
 }
