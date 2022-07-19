@@ -34,7 +34,7 @@
     "ACTIVE": "فعال",
     "EXPIRED": "منقضی شده",
     "FINISHED": "تمام شده",
-    "DELETED": "حذف شده/غیرفعال"
+    "DELETED": "غیرفعال"
   },
   "success_recycle": "کد‌ تخفیف با موفقیت بازیابی شد.",
   "title": "کد تخفیف",
@@ -58,5 +58,6 @@
   "define_max_amount": "تعیین سقف مبلغ تخفیف",
   "choose_products": "انتخاب محصول",
   "all_products": "تمام محصولات",
-  "product": "محصول"
+  "product": "محصول",
+  "set_on": "قابل اعمال بر روی"
 }
