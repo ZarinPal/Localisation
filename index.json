@@ -21,7 +21,8 @@
     "ticket.json",
     "title.json",
     "user.json",
-    "warnings.json"
+    "warnings.json",
+    "refund.json"
   ],
   "version": 0.2
 }
