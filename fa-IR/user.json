@@ -50,5 +50,15 @@
     "tax_id": "کد مالیاتی",
     "username": "نام کاربری",
     "mobile": "شماره موبایل"
+  },
+  "sections": {
+    "user_account": "حساب کاربری",
+    "bank_account": "حساب‌های بانکی",
+    "partners": "شرکای تجاری",
+    "addresses": "آدرس‌ها",
+    "notif": "اطلاع‌رسانی",
+    "active_sessions": "نشست‌های فعال",
+    "connected_apps": "نرم‌افزار‌های متصل",
+    "terminals": "درگاه‌ها"
   }
 }
