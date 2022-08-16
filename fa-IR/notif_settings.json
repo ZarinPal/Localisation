@@ -1,0 +1,14 @@
+{
+  "description": "تنظیمات اطلاع‌رسانی خود را در این بخش ویرایش کنید",
+  "notification": "نوتیفیکیشن",
+  "new_ticket": "تیکت جدید",
+  "success_transaction": "تراکنش موفق",
+  "output_transactions": "تراکنش خروجی",
+  "sms": "پیامک",
+  "telegram": "تلگرام",
+  "telegram_description": "جهت استفاده از اطلاع‌رسانی از طریق می‌بایست ربات تلگرام را فعال کنید",
+  "activate_teleram_bot": "فعال‌سازی ربات تلگرام",
+  "email": "ایمیل",
+  "email_description": "هنوز آدرس ایمیلی در حساب کاربری خود ثبت نکرده‌اید",
+  "set_email_address": "ثبت آدرس ایمیل"
+}
