@@ -19,11 +19,13 @@
   "REJECTED_SHAPARAK": "رد شده توسط شاپرک",
   "REVERSED": "بازگردانی شده",
   "SUCCESS": "موفق",
-  "UNSUCCESS":"ناموفق",
+  "UNSUCCESS": "ناموفق",
   "SUPPORT_RESPONSE": "پاسخ پشتیبان",
   "SUSPEND": "معلق",
   "VERIFIED": "پرداخت موفق",
   "ZARIN_CARD_PENDING": "در انتظار زرین‌کارت",
-  "FINALIZED":"موفق نهایی شده",
-  "NOT_FINALIZED":"موفق نهایی نشده"
+  "FINALIZED": "موفق نهایی شده",
+  "NOT_FINALIZED": "موفق نهایی نشده",
+  "EXPORT_PENDING": "در حال پردازش",
+  "DONE": "پردازش شده"
 }
