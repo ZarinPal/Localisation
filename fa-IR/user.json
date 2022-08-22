@@ -15,6 +15,18 @@
     "NEW": "عضو جدید",
     "SILVER": "نقره‌ای"
   },
+  "terminals": {
+    "personal": "درگاه‌های شخصی",
+    "others": "درگاه‌های غیرشخصی",
+    "request_new": "درخواست درگاه جدید",
+    "empty": "هیچ درگاهی وجود ندارد",
+    "table": {
+      "dashboard": "پیشخوان درگاه",
+      "setting": "تنظیمات درگاه",
+      "title": "عنوان درگاه",
+      "doman": "دامنه"
+    }
+  },
   "notification_preference_channel": {
     "MAIL": "ایمیل",
     "PUSH": "نوتیفیکیشن",
