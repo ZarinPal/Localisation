@@ -3,6 +3,18 @@
     "type": {
       "PERSONAL": "نشست‌های شخصی",
       "THIRDPARTY": "نشست‌های همکار"
+    },
+    "create_access": "ایجاد مجوز دسترسی",
+    "access_token": "مجوز دسترسی",
+    "created_token_alert": "مجوز دسترسی تنها یک‌ مرتبه قابل مشاهده است",
+    "create_access_description": "یک عنوان انگلیسی برای ایجاد مجوز وارد کنید",
+    "access_title": "عنوان مجوز",
+    "remove_other_tokens": "حذف نشست‌های دیگر",
+    "remove_all_confirm_title": "حذف نشست‌های دیگر",
+    "remove_all_confirm": "آیا می‌خواهید همه نشست‌های دیگر حذف شود؟",
+    "empty": {
+      "thirparty": "هیچ نرم‌افزار متصلی وجود ندارد",
+      "personal": "شما هیچ دسترسی شخصی‌ای ایجاد نکرده‌اید"
     }
   },
   "gender": {
@@ -14,6 +26,18 @@
     "GOLD": "طلایی",
     "NEW": "عضو جدید",
     "SILVER": "نقره‌ای"
+  },
+  "terminals": {
+    "personal": "درگاه‌های شخصی",
+    "others": "درگاه‌های غیرشخصی",
+    "request_new": "درخواست درگاه جدید",
+    "empty": "هیچ درگاهی وجود ندارد",
+    "table": {
+      "dashboard": "پیشخوان درگاه",
+      "setting": "تنظیمات درگاه",
+      "title": "عنوان درگاه",
+      "doman": "دامنه"
+    }
   },
   "notification_preference_channel": {
     "MAIL": "ایمیل",
