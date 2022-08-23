@@ -1,6 +1,7 @@
 {
   "end_point": "raw.githubusercontent.com/ZarinPal/Localisation/main",
   "entities": [
+    "address.json",
     "auth.json",
     "bank_account.json",
     "common.json",
@@ -10,19 +11,20 @@
     "empty.json",
     "invoice.json",
     "kyc.json",
+    "notif_settings.json",
     "pagination.json",
     "payout.json",
     "product.json",
     "reconcilation.json",
     "referrer.json",
+    "refund.json",
     "session.json",
     "status.json",
     "terminal.json",
     "ticket.json",
     "title.json",
     "user.json",
-    "warnings.json",
-    "refund.json"
+    "warnings.json"
   ],
   "version": 0.2
 }
