@@ -32,6 +32,7 @@
     "terminal": "درگاه پرداخت ",
     "reconciliation": "تسویه‌حساب"
   },
+  "search_format": "فرمت‌های قابل جستجو",
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",
   "activate_button": "بله، فعال شود",
@@ -78,7 +79,7 @@
     "to_date": "تا تاریخ",
     "today": "امروز",
     "excel": "خروجی اکسل",
-    "filtered":"فیلتر‌‌های اعمال شده"
+    "filtered": "فیلتر‌‌های اعمال شده"
   },
   "failed": "عملیات با حطا مواجه شد",
   "from": "از",
@@ -130,5 +131,5 @@
   "cancel_action": "انصراف از عملیات",
   "unsaved_changes": "تغییرات ذخیره نشده",
   "fee": "کارمزد",
- "accept": "تایید"
+  "accept": "تایید"
 }
