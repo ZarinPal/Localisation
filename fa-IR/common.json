@@ -32,6 +32,7 @@
     "terminal": "درگاه پرداخت ",
     "reconciliation": "تسویه‌حساب"
   },
+  "zpId": "شناسه کاربر",
   "search_format": "فرمت‌های قابل جستجو",
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",
