@@ -1,4 +1,11 @@
 {
+  "fileSize": {
+    "byte": "بایت",
+    "kByte": "کیلوبایت",
+    "megaByte": "مگابایت"
+  },
+  "textMessage": "متن پیام'",
+  "noRegistered": "ثبت نشده",
   "table": {
     "id": "شناسه",
     "title": "عنوان",
