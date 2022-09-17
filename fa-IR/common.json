@@ -1,4 +1,11 @@
 {
+  "fileSize": {
+    "byte": "بایت",
+    "kByte": "کیلوبایت",
+    "megaByte": "مگابایت"
+  },
+  "textMessage": "متن پیام'",
+  "noRegistered": "ثبت نشده",
   "table": {
     "id": "شناسه",
     "title": "عنوان",
@@ -32,6 +39,7 @@
     "terminal": "درگاه پرداخت ",
     "reconciliation": "تسویه‌حساب"
   },
+  "zpId": "شناسه کاربر",
   "search_format": "فرمت‌های قابل جستجو",
   "deactivate": "غیرفعال کردن",
   "deactivate_button": "بله، غیرفعال شود",

@@ -1,9 +1,16 @@
 {
+  "lastSeen": " آخرین مشاهده",
+  "token": "نشست",
+  "yesOrRemove": "بله، حذف",
+  "notificationChangesHaveBeenMade": "تغییرات اطلاع رسانی انجام شده",
   "access_tokens": {
     "type": {
       "PERSONAL": "نشست‌های شخصی",
       "THIRDPARTY": "نشست‌های همکار"
     },
+    "ip": "آی‌پی",
+    "removeOk": "از حذف این نشست اطمینان دارید؟",
+    "removeToken": "حذف نشست",
     "create_access": "ایجاد مجوز دسترسی",
     "access_token": "مجوز دسترسی",
     "created_token_alert": "مجوز دسترسی تنها یک‌ مرتبه قابل مشاهده است",
@@ -27,6 +34,7 @@
     "NEW": "عضو جدید",
     "SILVER": "نقره‌ای"
   },
+  "levelTitle": " سطح عضویت ",
   "terminals": {
     "personal": "درگاه‌های شخصی",
     "others": "درگاه‌های غیرشخصی",
@@ -76,6 +84,7 @@
     "mobile": "شماره موبایل"
   },
   "sections": {
+    "companionOfZarinPal": "هـمـراه زریـن\u200Cپـال",
     "user_account": "حساب کاربری",
     "bank_account": "حساب‌های بانکی",
     "partners": "شرکای تجاری",
