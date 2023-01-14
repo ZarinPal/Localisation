@@ -2,6 +2,7 @@
   "description": "لیست محصولات شما",
   "activate": "فعال کردن",
   "deActivate": "غیر‌فعال کردن",
+  "id": "شناسه‌ی محصولات",
   "details": {
     "details": "جزئیات محصول",
     "title": "عنوان محصول یا خدمت",
@@ -121,8 +122,8 @@
   "deactivate": {
     "confirm_title": "غیرفعال کردن محصول",
     "confirm": "آیا می‌خواهید این محصول غیرفعال شود؟",
-    "inline_title":"محصول غیرفعال است",
-    "inline_description":"این محصول در تاریخ {date} غیرفعال شده است."
+    "inline_title": "محصول غیرفعال است",
+    "inline_description": "این محصول در تاریخ {date} غیرفعال شده است."
   },
   "activate_modal": {
     "confirm_title": "فعال کردن محصول",
