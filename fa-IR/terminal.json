@@ -48,12 +48,18 @@
   "edit": {
     "oddDays":"شروع زرین (روزهای فرد)",
     "reconcileDuration": "دوره تسویه‌حساب",
+
     "goldThursday":"سه‌شنبه طلایی",
     "cycle": "دوره",
     "cycles": {
       "auto": "خودکار",
+      "GOLDEN_TUESDAY":"سه‌شنبه طلایی",
+      "ODD_DAYS":"شروع زرین (روزهای فرد)",
+
       "daily": "روزانه",
+      "DAILY": "روزانه",
       "MONTHLY_I": "در روز {i} ام ماه",
+      "OFF": "خاموش",
       "off": "خاموش",
       "weekly": "هفتگی",
       "WEEKLY_MONDAY": "دوشنبه",
