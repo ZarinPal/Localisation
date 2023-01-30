@@ -1,4 +1,7 @@
-{
+{ 
+  "emailAddressPayer":"آدرس ایمیل پرداخت‌کننده",
+  "phoneNumberPayer":"شماره همراه پرداخت‌کننده",
+  "note":"یادداشت",
   "fileSize": {
     "byte": "بایت",
     "kByte": "کیلوبایت",
