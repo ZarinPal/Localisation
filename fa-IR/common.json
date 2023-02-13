@@ -1,7 +1,7 @@
-{ 
-  "emailAddressPayer":"آدرس ایمیل پرداخت‌کننده",
-  "phoneNumberPayer":"شماره همراه پرداخت‌کننده",
-  "note":"یادداشت",
+{
+  "emailAddressPayer": "آدرس ایمیل پرداخت‌کننده",
+  "phoneNumberPayer": "شماره همراه پرداخت‌کننده",
+  "note": "یادداشت",
   "fileSize": {
     "byte": "بایت",
     "kByte": "کیلوبایت",
@@ -143,5 +143,6 @@
   "cancel_action": "انصراف از عملیات",
   "unsaved_changes": "تغییرات ذخیره نشده",
   "fee": "کارمزد",
-  "accept": "تایید"
+  "accept": "تایید",
+  "destroyFilters": "حذف فیلتر‌ها"
 }
