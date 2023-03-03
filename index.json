@@ -24,8 +24,7 @@
     "ticket.json",
     "title.json",
     "user.json",
-    "warnings.json",
-    "addـterminal.json"
+    "warnings.json"
   ],
   "version": 0.2
 }
