@@ -25,7 +25,8 @@
     "title.json",
     "user.json",
     "warnings.json",
-    "addTerminal.json"
+    "addTerminal.json",
+    "validation.json"
   ],
   "version": 0.2
 }
