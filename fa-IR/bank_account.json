@@ -11,6 +11,7 @@
   "add_new_account": "افزودن حساب بانکی",
   "add_new_share": "افزودن حساب بانکی شریک تجاری",
   "confirmation":"تایید اطلاعات حساب",
+  "confirmation_btn":"تایید و افزودن حساب",
   "types": {
     "legal": "حقوقی",
     "PERSONAL": "حقیقی",
