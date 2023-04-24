@@ -1,6 +1,8 @@
 {
   "lastSeen": " آخرین مشاهده",
   "token": "نشست",
+  "removeToken":"حذف",
+  "removeOk":"آیا این نشست حذف شود ؟",
   "yesOrRemove": "بله، حذف",
   "notificationChangesHaveBeenMade": "تغییرات اطلاع رسانی انجام شده",
   "access_tokens": {
