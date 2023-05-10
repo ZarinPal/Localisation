@@ -1,6 +1,8 @@
 {
   "lastSeen": " آخرین مشاهده",
   "token": "نشست",
+  "removeToken":"حذف",
+  "removeOk":"آیا این نشست حذف شود ؟",
   "yesOrRemove": "بله، حذف",
   "notificationChangesHaveBeenMade": "تغییرات اطلاع رسانی انجام شده",
   "access_tokens": {
@@ -36,8 +38,7 @@
   },
   "levelTitle": " سطح عضویت ",
   "terminals": {
-    "personal": "درگاه‌های شخصی",
-    "others": "درگاه‌های غیرشخصی",
+    "title": "درگاه‌ها",
     "request_new": "درخواست درگاه جدید",
     "empty": "هیچ درگاهی وجود ندارد",
     "table": {

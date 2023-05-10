@@ -56,7 +56,7 @@
   "delete": "حذف",
   "apply": "اعمال",
   "dismiss": "فعلا نه!",
-  "done": "متوجه شدم.",
+  "done": "متوجه شدم",
   "edit": "ویرایش",
   "empty": "موردی پیدا نشد.",
   "error": "خطا",
@@ -64,9 +64,25 @@
   "error_invalid_data": "وارد‌شده صحیح نیست.{data}",
   "error_long": "وارد‌شده طولانی است.(کمتر  از {chars} کاراکتر){data}",
   "error_short": "وارد‌شده کوتاه است.(بیشتر از {chars} کاراکتر){data}",
-  "zarinPalAnnouncement": "اطلاعیه‌ها",
-  "archive_announcement": "آرشیو اطلاعیه‌ها",
-  "notifications": "اعلانات",
+  "notif": {
+    "notifications":"اعلانات",
+    "announcement":"اطلاعیه‌ها",
+    "archive":"آرشیو اطلاعیه‌ها",
+    "empty": {
+      "notifications":{
+        "title":"اعلانی وجود ندارد",
+        "caption":"هنوز اعلانی دریافت نکرده‌اید"
+      },
+      "announcement":{
+        "title":"اطلاعیه‌ای وجود ندارد",
+        "caption":"هنوز اطلاعیه‌ای دریافت نکرده‌اید"
+      },
+      "archive":{
+        "title":"آرشیو اطلاعیه‌ها خالیست",
+        "caption":"اطلاعیه‌های آرشیو شده در این بخش در دسترس شما خواهند بود"
+      }
+    }
+  },
   "export": {
     "7_days": "۷روز گذشته",
     "advance_search": "جستجوی پیشرفته",
