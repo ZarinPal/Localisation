@@ -3,6 +3,7 @@
   "phoneNumberPayer": "شماره همراه پرداخت‌کننده",
   "note": "یادداشت",
   "pinTooltip":"پین کردن درگاه",
+  "cancelPinTooltip":"لغو پین درگاه",
   "fileSize": {
     "byte": "بایت",
     "kByte": "کیلوبایت",
