@@ -12,7 +12,7 @@
   "givePermission": "اعطای دسترسی",
   "withOutIp": "بدون محدودیت IP",
   "withIp": "با محصودیت IP",
-  "name": "عنوان درگاه",
+  "nameOfTerminal": "عنوان درگاه",
   "permission": "سطح دسترسی‌ها",
   "pspName": "خدمات‌دهندگان پرداخت",
   "setting": "تنظیمات درگاه",
