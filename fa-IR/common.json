@@ -5,6 +5,7 @@
   "pinTooltip": "پین کردن درگاه",
   "cancelPinTooltip": "لغو پین درگاه",
   "comming_soon": "بزودی",
+  "previews_version": "نسخه قبل",
   "comming_soon_desc": "تا زمان اضافه شدن این بخش به پنل جدید، در صورت نیاز می‌توانید محصولات خود را در {version} مشاهده نمایید.",
   "fileSize": {
     "byte": "بایت",
