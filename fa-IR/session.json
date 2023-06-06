@@ -69,6 +69,7 @@
     "print_receipt": "چاپ رسید",
     "receipt": "مشاهده رسید",
     "time_line": {
+      "cancel": "لغو شده توسط کاربر",
       "refund": "استرداد وجه",
       "refund_amount": "مبلغ {amount} ریال",
       "bank": "انتقال به درگاه",
