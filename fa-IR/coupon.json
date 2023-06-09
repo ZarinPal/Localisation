@@ -28,7 +28,7 @@
   "min_percent": "حداقل مبلغ تخفیف",
   "percent": "درصد تخفیف",
   "remove": "حذف کد تخفیف",
-  "create_placeholder": "مثلا: summer10",
+  "createPlaceholder": "مثلا: summer10",
   "remove_confirm": "کد تخفیف حذف شود؟",
   "select_products": "انتخاب محصولات",
   "status": {
