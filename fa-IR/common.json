@@ -167,5 +167,6 @@
   "fee": "کارمزد",
   "accept": "تایید",
   "destroyFilters": "حذف فیلتر‌ها",
-  "continue": "ادامه"
+  "continue": "ادامه",
+  "head": "{text} | زرین‌پال"
 }
