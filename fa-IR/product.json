@@ -1,8 +1,9 @@
 {
-  "description": "لیست محصولات شما",
+  "description": "مدیریت و فروش مستقیم محصول از طریق لینک پرداخت",
   "activate": "فعال کردن",
   "deActivate": "غیر‌فعال کردن",
   "id": "شناسه‌ی محصولات",
+  "codeId": "شناسه محصول",
   "link": "لینک‌پرداخت",
   "details": {
     "details": "جزئیات محصول",
@@ -29,7 +30,7 @@
     "canDiscountTrue": "دارد",
     "canDiscountFalse": "ندارد",
     "unlimited": "نامحدود",
-    "stock": "موجودی",
+    "stock": "تعداد موجود",
     "latelyTransactions": "تراکنش‌های اخیر",
     "showAll": "مشاهده همه",
     "rials": "ریال",
