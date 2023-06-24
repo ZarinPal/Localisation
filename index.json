@@ -27,7 +27,8 @@
     "user.json",
     "warnings.json",
     "addTerminal.json",
-    "validation.json"
+    "validation.json",
+    "instantPayout.json"
   ],
   "version": 0.2
 }
