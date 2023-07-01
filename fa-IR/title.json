@@ -13,7 +13,7 @@
   "name": "نام",
   "operation": "عملیات",
   "payable_at": "تاریخ قابل واریز",
-  "reconcile_id": "شناسه‌ی تسویه‌حساب",
+  "reconcile_id": "شناسه‌ی تسویه",
   "reconciled_at": "تاریخ تسویه",
   "reference_id": "شناسه‌ی ارجاع",
   "reference_number":"شماره ارجاع",
