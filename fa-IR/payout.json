@@ -43,7 +43,7 @@
   "type": "مدلِ تسویه‌حساب",
   "CheckoutRequest": "درخواست تسویه‌حساب",
   "rrn": "شماره پیگیری",
-  "payout_valid_time": "سرویس تسویه پیش از موعد از ساعت",
+  "payout_valid_time": "سرویس تسهیم فردایی از ساعت",
   "instant": {
     "status": {
       "PENDING": "در حال پردازش",
