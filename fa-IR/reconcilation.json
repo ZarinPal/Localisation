@@ -10,6 +10,9 @@
     "REVERSED": "بازگردانی شده",
     "PAID": "تسویه‌ شده"
   },
+  "export":{
+    "placeholder": "تسویه‌حساب‌های درگاه {terminal}"
+  },
   "reconcileDetail": {
     "error": "تسویه‌حسابی با این شناسه وجود ندارد. ",
     "errorSession": "تراکنشی با این شناسه وجود ندارد. ",
