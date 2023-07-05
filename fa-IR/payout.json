@@ -43,6 +43,7 @@
   "type": "مدلِ تسویه‌حساب",
   "CheckoutRequest": "درخواست تسویه‌حساب",
   "rrn": "شماره پیگیری",
+  "payout_valid_time": "سرویس تسویه پیش از موعد از ساعت",
   "instant": {
     "status": {
       "PENDING": "در حال پردازش",
@@ -59,7 +60,6 @@
     "first_satna_cycle": "اولین سیکل ساتنا",
     "deposite_time": "زمان تقریبی واریز",
     "out_of_time": "خارج از محدوده زمانی",
-    "instant_valid_time": "سرویس تسویه پیش از موعد از ساعت",
     "five": "۰۵:۰۰",
     "eleven": "۲۳:۰۰",
     "to": "الی",
